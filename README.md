@@ -100,7 +100,14 @@ Também tenho experiência em **análise de dados com Python (Pandas, NumPy, Mat
 - Curiosa por novas tecnologias e sempre aprendendo  
 
 ---
+📫 **Contato**
+<div> 
+  <a href="https://instagram.com/anaelisa.siilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:anna.eosilva01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-elisa-oliveira-silva-a73805329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgg4H3IvNQWaSP6iwblvzcw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-📫 **Contato**  
-[LinkedIn](https://www.linkedin.com/in/elisasilva06/) | [GitHub](https://github.com/elisasilva06)
+
+
 
