@@ -107,7 +107,7 @@ Também tenho experiência em **análise de dados com Python (Pandas, NumPy, Mat
   <a href="https://www.linkedin.com/in/ana-elisa-oliveira-silva-a73805329?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bgg4H3IvNQWaSP6iwblvzcw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-###
+
 
 <br clear="both">
 
