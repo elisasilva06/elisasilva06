@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Elisa Silva
+# 👩🏻‍💻 Ana Elisa Oliveira Silva
 
 **`Desenvolvedora Java & Backend`**
 
-Sou estudante de **Engenharia de Computação** e desenvolvedora com foco em **Java, POO, Spring Boot e APIs RESTful**.  
+Sou estudante de **Engenharia de Computação** da Universidade Estadual do Maranhão (UEMA) e desenvolvedora com foco em **Java, POO, Spring Boot e APIs RESTful**.  
 Também tenho experiência em **análise de dados com Python (Pandas, NumPy, Matplotlib, Seaborn)**, **desenvolvimento front-end (HTML, CSS, JavaScript)** e **design de interfaces com Figma**.
 
 ---
